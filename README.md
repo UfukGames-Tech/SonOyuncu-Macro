@@ -11,6 +11,6 @@ SonOyuncu macrosu UfukGames tarafından geliştirilmiştir ve içinde virüs yok
 Uygulama 25 MB'den büyük olduğu için aşağıdaki linkten indirebilirsiniz.
 -----------------------------------------------------------
 Direk SonOyuncu İndirme Linki: https://bit.ly/sonoyuncumacro
-Ana Websitemiz: https://ufukgames.netlify.app
+# Ana Websitemiz: https://ufukgames.netlify.app
 -----------------------------------------------------------
 ⒸUfukGames Since 2022
