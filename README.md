@@ -1,6 +1,7 @@
 # UfukGames (Panel)
 Bu uygulama ile tek tıkla tüm uygulamalarımızı indirebilirsiniz.
-SonOyuncu dosyamız 25 MB'den büyük olduğu iin GitHub kabul etmedi ama bu uygulamamız ile indirebilirsiniz.
+SonOyuncu dosyamız 25 MB'den büyük olduğu için GitHub kabul etmedi ama bu uygulamamız ile indirebilirsiniz.
+Veya panel uygulamamızı indirmeden aşağıdaki linkten de indirebilirsiniz.
 -----------------------------------------------------------
 # SonOyuncu-Macro
 Bu uygulama sayesinde SonOyuncu'da en az 15CPS alacaksınız. 
